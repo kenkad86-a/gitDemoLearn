@@ -1,4 +1,7 @@
-First line
+
 Second line
 Third line
 Forth line
+
+New line 1
+New line 2
